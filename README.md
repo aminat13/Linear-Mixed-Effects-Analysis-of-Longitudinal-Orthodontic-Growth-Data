@@ -1,8 +1,9 @@
 # Linear-Mixed-Effects-Analysis-of-Longitudinal-Orthodontic-Growth-Data
 ---
-This repository contains an analysis of a longitudinal orthodontic dataset using linear mixed-effects models in R. The project was completed as part of the Advanced Data Analytics module in the MSc Technologies and Analytics in Precision Medicine.
 
+This repository contains an analysis of a longitudinal orthodontic dataset using linear mixed-effects models in R. The project was completed as part of the Advanced Data Analytics module in the MSc Technologies and Analytics in Precision Medicine.
 The analysis investigates how facial bone growth changes with age and whether sex influences baseline measurements or growth trajectories.
+
 ---
 ## Project Overview
 
@@ -13,6 +14,7 @@ Because the dataset contains repeated measurements from the same individuals, ob
 Research Question: 
 
 How does facial bone distance change with age, and do males and females differ in their baseline measurements or growth rates? 
+
 ---
 ## Dataset
 
