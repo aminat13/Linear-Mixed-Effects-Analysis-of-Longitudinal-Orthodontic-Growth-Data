@@ -23,11 +23,12 @@ How does facial bone distance change with age, and do males and females differ i
 
 The dataset includes measurements from 27 children followed from age 8 to 14, with measurements taken every two years.
 
-- Variable	Description
-- Subject	Child identifier
-- Sex	Male or Female
-- Age at measurement (8, 10, 12, 14)
-- Distance between pituitary and pterygomaxillary fissure (mm)
+| Variable | Description |
+|---------|-------------|
+| Subject | Child identifier |
+| Sex | Male or Female |
+| Age | Age at measurement (8, 10, 12, 14) |
+| Distance | Distance between pituitary and pterygomaxillary fissure (mm) |
 
 ### Dataset structure:
 
