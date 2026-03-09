@@ -146,22 +146,6 @@ The final model showed:
 - However, growth rates differ between sexes, with males showing slightly steeper increases.
 - These findings suggest that while children differ in their baseline facial bone measurements, their individual growth slopes are broadly similar, making a random intercept model sufficient. 
 ---
-Repository Structure
-├── scripts
-│   └── assignment1_workflow.R
-│
-├── results
-│   └── figures
-│       ├── spag_plot.png
-│       ├── slopes.png
-│       ├── residuals_plot.png
-│       ├── qq_res.png
-│       └── qq_ran.png
-│
-├── report
-│   └── ADA_assignment_1.pdf
-│
-└── README.md
 
 ### Running the Analysis
 
